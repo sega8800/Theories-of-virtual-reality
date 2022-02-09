@@ -66,13 +66,26 @@
 
 Приложение будет работать при наличии видеокарты с поддержкой DX10 (версия шейдеров 4.0).
 
-
-
 # 3.	ТРЕБОВАНИЯ К ИНТЕРФЕЙСУ
 
 ## 3.1	Пользовательский интерфейс
 
-> //Тут добавим макеты приложения
+> Пользовательский интерфейс должен соответствовать стилистике жанра. Подготовленный шаблон является не окончательным вариантом. Это прототип, который может измениться в ходе разработки.
+
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432668/TheoryOfVirtual/1_xbu4lu.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432668/TheoryOfVirtual/2_kkkkc7.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432666/TheoryOfVirtual/3_u0yot6.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432667/TheoryOfVirtual/4_sjig91.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432668/TheoryOfVirtual/options_dpsqfw.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432667/TheoryOfVirtual/game_-__session_settings_fyghvl.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432667/TheoryOfVirtual/controls_e1c6mq.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432667/TheoryOfVirtual/4_sjig91.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432666/TheoryOfVirtual/Credits_yv9rds.png"/>
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432668/TheoryOfVirtual/locathion_1_rh1on9.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432668/TheoryOfVirtual/locathion_2_h3pbwc.png" />
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432668/TheoryOfVirtual/locathion_3_z7hnae.png"/>
+<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432667/TheoryOfVirtual/exit_esc_rpquae.png"/>
+
 
 # 4.	ФУНКЦИОНАЛЬНЫЕ ТРЕБОВАНИЯ
 
