@@ -79,7 +79,6 @@
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432668/TheoryOfVirtual/options_dpsqfw.png" />
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432667/TheoryOfVirtual/game_-__session_settings_fyghvl.png" />
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432667/TheoryOfVirtual/controls_e1c6mq.png" />
-<img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432667/TheoryOfVirtual/4_sjig91.png" />
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432666/TheoryOfVirtual/Credits_yv9rds.png"/>
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432668/TheoryOfVirtual/locathion_1_rh1on9.png" />
 <img src="https://res.cloudinary.com/dlrmdokvi/image/upload/v1644432668/TheoryOfVirtual/locathion_2_h3pbwc.png" />
@@ -89,11 +88,11 @@
 
 # 4.	ФУНКЦИОНАЛЬНЫЕ ТРЕБОВАНИЯ
 
-•	Начать игру;
-•	Выйти из игры;
-•	Процедурно генерируемые локации;
-•	Возможность одновременной игры двух пользователей;
-•	Сражение с соперником.
+-	Начать игру;
+-	Выйти из игры;
+-	Процедурно генерируемые локации;
+- Возможность одновременной игры двух пользователей;
+-	Сражение с соперником.
 
 # 5.	НЕФУНКЦИОНАЛЬНЫЕ ОСОБЕННОСТИ
 
